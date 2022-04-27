@@ -2,7 +2,7 @@
   "name": "classwork56",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Igorberlin.github.io/Food_Categori_Project/",
+  "homepage": "https://Igorberlin.github.io/Food_Category_Project/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
