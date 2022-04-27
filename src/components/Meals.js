@@ -43,7 +43,7 @@ const Meals = ({ match }) => {
             meals.map((meal) => <Meal key={meal.idMeal} meal={meal} />)
         );
     };
-    if (category === "Food_Categori_Project") {
+    if (category === "Food_Category_Project") {
         return <Redirect to="/" />;
     }
     return (
