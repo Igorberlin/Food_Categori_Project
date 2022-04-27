@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Food_Categori_Project/static/css/main.106baaae.chunk.css",
+    "main.js": "/Food_Categori_Project/static/js/main.50d3ad52.chunk.js",
+    "main.js.map": "/Food_Categori_Project/static/js/main.50d3ad52.chunk.js.map",
+    "runtime-main.js": "/Food_Categori_Project/static/js/runtime-main.d9f63acd.js",
+    "runtime-main.js.map": "/Food_Categori_Project/static/js/runtime-main.d9f63acd.js.map",
+    "static/css/2.f2512455.chunk.css": "/Food_Categori_Project/static/css/2.f2512455.chunk.css",
+    "static/js/2.ac13eef6.chunk.js": "/Food_Categori_Project/static/js/2.ac13eef6.chunk.js",
+    "static/js/2.ac13eef6.chunk.js.map": "/Food_Categori_Project/static/js/2.ac13eef6.chunk.js.map",
+    "index.html": "/Food_Categori_Project/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Food_Categori_Project/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.106baaae.chunk.css.map": "/Food_Categori_Project/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.ac13eef6.chunk.js.LICENSE.txt": "/Food_Categori_Project/static/js/2.ac13eef6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9f63acd.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.ac13eef6.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.50d3ad52.chunk.js"
+  ]
+}
