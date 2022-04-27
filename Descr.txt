@@ -1,0 +1,5 @@
+Bootstrap
+React, React-dom
+React-router-dom v5.3
+React Hooks (useState, useEffect)
+Api from www.themealdb.com
