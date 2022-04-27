@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Food_Categori_Project/static/css/main.106baaae.chunk.css",
-    "main.js": "/Food_Categori_Project/static/js/main.87a74253.chunk.js",
-    "main.js.map": "/Food_Categori_Project/static/js/main.87a74253.chunk.js.map",
-    "runtime-main.js": "/Food_Categori_Project/static/js/runtime-main.d9f63acd.js",
-    "runtime-main.js.map": "/Food_Categori_Project/static/js/runtime-main.d9f63acd.js.map",
-    "static/css/2.f2512455.chunk.css": "/Food_Categori_Project/static/css/2.f2512455.chunk.css",
-    "static/js/2.f3798058.chunk.js": "/Food_Categori_Project/static/js/2.f3798058.chunk.js",
-    "static/js/2.f3798058.chunk.js.map": "/Food_Categori_Project/static/js/2.f3798058.chunk.js.map",
-    "index.html": "/Food_Categori_Project/index.html",
-    "static/css/2.f2512455.chunk.css.map": "/Food_Categori_Project/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.106baaae.chunk.css.map": "/Food_Categori_Project/static/css/main.106baaae.chunk.css.map",
-    "static/js/2.f3798058.chunk.js.LICENSE.txt": "/Food_Categori_Project/static/js/2.f3798058.chunk.js.LICENSE.txt"
+    "main.css": "/Food_Category_Project/static/css/main.106baaae.chunk.css",
+    "main.js": "/Food_Category_Project/static/js/main.87a74253.chunk.js",
+    "main.js.map": "/Food_Category_Project/static/js/main.87a74253.chunk.js.map",
+    "runtime-main.js": "/Food_Category_Project/static/js/runtime-main.e1130ad7.js",
+    "runtime-main.js.map": "/Food_Category_Project/static/js/runtime-main.e1130ad7.js.map",
+    "static/css/2.f2512455.chunk.css": "/Food_Category_Project/static/css/2.f2512455.chunk.css",
+    "static/js/2.f3798058.chunk.js": "/Food_Category_Project/static/js/2.f3798058.chunk.js",
+    "static/js/2.f3798058.chunk.js.map": "/Food_Category_Project/static/js/2.f3798058.chunk.js.map",
+    "index.html": "/Food_Category_Project/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Food_Category_Project/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.106baaae.chunk.css.map": "/Food_Category_Project/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.f3798058.chunk.js.LICENSE.txt": "/Food_Category_Project/static/js/2.f3798058.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9f63acd.js",
+    "static/js/runtime-main.e1130ad7.js",
     "static/css/2.f2512455.chunk.css",
     "static/js/2.f3798058.chunk.js",
     "static/css/main.106baaae.chunk.css",
